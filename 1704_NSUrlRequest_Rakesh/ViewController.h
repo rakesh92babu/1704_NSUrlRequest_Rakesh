@@ -17,6 +17,7 @@
 @property NSMutableURLRequest * URLReq;
 @property NSURLSessionDataTask * dataTask;
 @property NSArray * mude;
+@property NSMutableArray * valavala;
 
 - (IBAction)goButton:(id)sender;
 @property NSMutableDictionary * serverResponderDict;
